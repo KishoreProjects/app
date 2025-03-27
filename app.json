@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "MindEase",
+    "slug": "MindEase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "name": "MindEase",
+      "shortName": "MindEase",
+      "bundler": "metro",
+      "output": "single",
+      "favicon": ""
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
