@@ -1,0 +1,202 @@
+Received Data: Array
+(
+    [medicine_name] => Paracetamol
+    [dosage] => 5005mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [medicine_name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [medicine_name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [medicine_name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+Received Data: Array
+(
+    [name] => Paracetamol
+    [dosage] => 5007mg
+    [timing] => Morning
+    [instructions] => Take after food
+)
+
+2025-03-27 17:29:49 - Received Data: {"name":"Paracetamol","dosage":"5007mg","timing":"Morning","instructions":"Take after food"}
+2025-03-27 17:29:58 - Received Data: {"medicine_name":"Paracetamol","dosage":"5007mg","timing":"Morning","instructions":"Take after food"}
+2025-03-27 17:32:30 - Received Data: {"medicine_name":"Paracetamol","dosage":"5007mg","timing":"Morning","instructions":"Take after food"}
+2025-03-27 17:35:20 - Received Data: {"medicine_name":"Paracetamol","dosage":"5007mg","timing":"Morning","instructions":"Take after food"}
+2025-03-27 17:35:21 - Received Data: {"medicine_name":"Paracetamol","dosage":"5007mg","timing":"Morning","instructions":"Take after food"}
+2025-03-27 17:36:32 - Received Data: {"medicine_name":"Paracetamol","dosage":"5007mg","timing":"Morning","instructions":"Take after food"}
+2025-03-27 17:37:41 - Received Data: null
+2025-03-27 17:38:09 - Received Data: {"name":"Kish","dosage":"600mg","time":"Night","instructions":"Ejjsnsnsjs"}
+2025-03-27 17:38:13 - Received Data: {"name":"Kish","dosage":"600mg","time":"Night","instructions":"Ejjsnsnsjs"}
+2025-03-27 17:42:40 - Received Data: {"name":"Kish","dosage":"600mg","time":"Night","instructions":"Ejjsnsnsjs"}
+2025-03-27 17:42:50 - Received Data: {"name":"Kish","dosage":"600mg","time":"Night","instructions":"Ejjsnsnsjs"}
+2025-03-27 17:42:54 - Received Data: {"medicine_name":"Kish","dosage":"600mg","timing":"Night","instructions":"Ejjsnsnsjs"}
+2025-03-27 17:45:59 - Received Data: {"medicine_name":"Jsndjsnnd","dosage":"6616g","timing":"Mrng","instructions":"Eyhshshshs"}
+2025-03-28 03:59:39 - Received Data: {"medicine_name":"Kish","dosage":"600mg","timing":"Night","instructions":"Ejjsnsnsjs"}
+2025-03-30 07:56:42 - Received Data: null
+2025-03-30 08:01:20 - Received Data: {"medicine_name":"Melo","dosage":"700","timing":"Mornh","instructions":"Hdhshjssh"}
+2025-03-30 08:20:14 - Received Data: null
+2025-03-30 08:38:12 - Received Data: null
+2025-03-30 08:42:07 - Received Data: {"medicine_name":"Kishore334","dosage":"600mg","timing":"Night","instructions":"Ejjsnsnsjs"}
+2025-03-30 08:42:36 - Received Data: {"medicine_name":"Ldndjskxk","dosage":"6992","timing":"Eveyodm","instructions":"Jdjdjsnd"}
+2025-03-30 08:47:49 - Received Data: {"medicine_name":"Kishore334","dosage":"600mg","timing":"Night","instructions":"Ejjsnsnsjs22222"}
+2025-03-30 08:49:23 - Received Data: {"medicine_name":"Kisisis","dosage":"7009","timing":"Even","instructions":"Uska sisnsnnsns"}
+2025-03-30 09:08:11 - Received Data: null
+2025-03-30 09:29:51 - Received Data: null
+2025-03-30 09:34:14 - Received Data: null
+2025-03-30 17:24:04 - Received Data: null
+2025-03-30 17:29:06 - Received Data: null
+Request Method: GET
+2025-03-30 17:37:24 - Received Data: null
+Request Method: GET
+2025-03-30 17:46:01 - Received Data: null
+Request Method: GET
+2025-03-30 18:02:49 - Received Data: null
+2025-03-30 18:09:58 - Received Data: null
+2025-03-31 05:42:22 - Received Data: null
+2025-03-31 06:36:34 - Received Data: null
+2025-03-31 07:03:53 - Received Data: null
+2025-03-31 07:14:19 - Received Data: null
+2025-03-31 07:14:57 - Received Data: null
+2025-03-31 07:28:41 - Received Data: null
+2025-03-31 07:31:05 - Received Data: null
+2025-03-31 07:33:41 - Received Data: null
+2025-03-31 07:44:07 - Received Data: null
+2025-03-31 08:30:41 - Received Data: null
+2025-03-31 09:04:45 - Received Data: null
+2025-03-31 09:28:21 - Received Data: null
+2025-03-31 09:53:36 - Received Data: null
+2025-03-31 11:01:38 - Received Data: null
+2025-04-01 18:31:58 - Received Data: null
+2025-04-01 18:31:59 - Received Data: null
+2025-04-01 19:04:20 - Received Data: null
+2025-04-01 19:08:12 - Received Data: null
+2025-04-01 19:16:11 - Received Data: null
+2025-04-01 19:22:08 - Received Data: null
+2025-04-01 19:24:19 - Received Data: null
+2025-04-01 19:24:19 - Received Data: null
+2025-04-01 19:29:17 - Received Data: null
+2025-04-01 19:34:33 - Received Data: null
+2025-04-01 19:35:42 - Received Data: null
+2025-04-01 19:48:14 - Received Data: null
+2025-04-01 20:05:00 - Received Data: null
+2025-04-01 20:10:46 - Received Data: null
+2025-04-01 20:14:22 - Received Data: null
+2025-04-03 17:57:06 - Received Data: null
+2025-04-03 18:10:03 - Received Data: null
+2025-04-03 19:00:20 - Received Data: null
+2025-04-03 19:01:32 - Received Data: {"medicine_name":"Dolo","dosage":"650mg","timing":"8:00","instructions":"Eat properly"}
+2025-04-22 17:09:44 - Received Data: null
+2025-04-23 17:11:16 - Received Data: null
+2025-04-28 07:16:43 - Received Data: {"medicine_name":"Schizo","dosage":"600mg","timing":"Night","instructions":"Put after eating"}
+2025-04-28 15:53:21 - Received Data: null
+2025-04-28 16:45:19 - Received Data: null
+2025-04-28 16:50:12 - Received Data: null
+2025-04-28 17:00:11 - Received Data: null
+2025-04-28 17:03:40 - Received Data: {"medicine_name":"89","dosage":"Dolo","timing":"Night","instructions":"Eat before doing things"}
+2025-04-30 12:16:56 - Received Data: null
+2025-04-30 12:29:27 - Received Data: null
+2025-04-30 12:44:37 - Received Data: null
+2025-04-30 12:48:18 - Received Data: null
+2025-04-30 12:48:39 - Received Data: null
+2025-04-30 14:50:50 - Received Data: null
+2025-04-30 15:06:26 - Received Data: {"medicine_name":"67","dosage":"Papa","timing":"89","instructions":"Isnsnns"}
+2025-04-30 15:09:49 - Received Data: null
+2025-04-30 15:16:10 - Received Data: null
+2025-04-30 15:18:05 - Received Data: null
+2025-04-30 15:20:36 - Received Data: null
+2025-04-30 15:25:47 - Received Data: null
+2025-04-30 15:39:34 - Received Data: null
+2025-04-30 15:40:49 - Received Data: null
+2025-04-30 15:50:09 - Received Data: null
+2025-04-30 15:51:27 - Received Data: null
+2025-04-30 16:43:50 - Received Data: null
+2025-04-30 17:16:35 - Received Data: null
+2025-04-30 17:18:52 - Received Data: null
+2025-04-30 17:43:51 - Received Data: null
+2025-04-30 17:44:09 - Received Data: null
+2025-04-30 17:50:34 - Received Data: null
+2025-04-30 17:51:25 - Received Data: null
+2025-04-30 17:53:56 - Received Data: null
+2025-04-30 17:54:01 - Received Data: null
+2025-04-30 17:56:16 - Received Data: null
+2025-04-30 17:56:16 - Received Data: null
+2025-04-30 17:56:16 - Received Data: null
+2025-05-01 09:28:53 - Received Data: null
+2025-05-01 09:48:17 - Received Data: null
+2025-05-01 10:01:43 - Received Data: null
+2025-05-01 10:05:14 - Received Data: null
+2025-05-01 10:09:25 - Received Data: null
+2025-05-01 12:08:12 - Received Data: null
+2025-05-01 12:19:16 - Received Data: null
+2025-05-01 13:01:24 - Received Data: null
+2025-05-01 13:11:28 - Received Data: null
+2025-05-01 13:30:42 - Received Data: null
+2025-05-01 13:39:43 - Received Data: null
